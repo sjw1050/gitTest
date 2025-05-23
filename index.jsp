@@ -5,6 +5,6 @@
   <title>Test</title>
 </head>
 <body>
-<h1>태그추가!!</h1>
+<h1>메인은 그냥 진행</h1>
 </body>
 </html>

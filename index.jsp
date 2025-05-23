@@ -5,6 +5,7 @@
   <title>Test</title>
 </head>
 <body>
-<h1>������ �׳� ����</h1>
+<h1>메인은 그냥 진행</h1>
+<p>새로운 기능 추가</p>
 </body>
 </html>
